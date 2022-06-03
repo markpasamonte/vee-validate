@@ -2,22 +2,22 @@
 
 ## Project setup
 ```
-yarn install
+update install
 ```
 
 ### Compiles and hot-reloads for development
 ```
-yarn serve
+update serve
 ```
 
 ### Compiles and minifies for production
 ```
-yarn build
+update build
 ```
 
 ### Lints and fixes files
 ```
-yarn lint
+update lint
 ```
 
 ### Customize configuration
